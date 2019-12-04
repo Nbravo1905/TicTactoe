@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "594415746428",
+    "firebase_url": "https://tictactoe-761b5.firebaseio.com",
+    "project_id": "tictactoe-761b5",
+    "storage_bucket": "tictactoe-761b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594415746428:android:df7c94550c01c782ec78f9",
+        "android_client_info": {
+          "package_name": "com.tictactoe.ngame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594415746428-6rrh38kaudvm5d8eefuhqe89f1bbd212.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kVNJQPlbzhkkKsAhRpIvvg-7-pF5cAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594415746428-6rrh38kaudvm5d8eefuhqe89f1bbd212.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594415746428:android:0e02db70e4d4ff31ec78f9",
+        "android_client_info": {
+          "package_name": "com.tictactoe.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594415746428-akridums5u3hcb209mtsic5f0j95c8h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tictactoe.tictactoe",
+            "certificate_hash": "b5bd2b4eade887aa69cd7994ae001eb0f1502569"
+          }
+        },
+        {
+          "client_id": "594415746428-6rrh38kaudvm5d8eefuhqe89f1bbd212.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kVNJQPlbzhkkKsAhRpIvvg-7-pF5cAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594415746428-6rrh38kaudvm5d8eefuhqe89f1bbd212.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
