@@ -10,10 +10,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".ui.Prueba"></activity>
         <activity
             android:name=".ui.JuegoActivity"
             android:label="@string/title_activity_juego"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".ui.BuscarPartidaActivity" />
         <activity android:name=".ui.RegistroActivity" />
         <activity android:name=".ui.LoginActivity">
