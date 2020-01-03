@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TicTactoe</string>
     <string name="title_activity_registro">RegistroActivity</string>
+    <string name="title_activity_juego">JuegoActivity</string>
 </resources>
